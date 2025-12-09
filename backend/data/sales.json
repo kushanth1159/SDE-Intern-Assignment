@@ -1,0 +1,29 @@
+[
+  {
+    "Customer ID": "C1",
+    "Customer Name": "Alice Rao",
+    "Phone Number": "9876543210",
+    "Gender": "Female",
+    "Age": 28,
+    "Customer Region": "North",
+    "Customer Type": "Retail",
+    "Product ID": "P1",
+    "Product Name": "Widget A",
+    "Brand": "BrandX",
+    "Product Category": "Electronics",
+    "Tags": "sale,clearance",
+    "Quantity": 2,
+    "Price per Unit": 500,
+    "Discount Percentage": 10,
+    "Total Amount": 1000,
+    "Final Amount": 900,
+    "Date": "2025-11-20",
+    "Payment Method": "Card",
+    "Order Status": "Delivered",
+    "Delivery Type": "Home",
+    "Store ID": "S1",
+    "Store Location": "Hyderabad",
+    "Salesperson ID": "E1",
+    "Employee Name": "Ravi"
+  }
+]
